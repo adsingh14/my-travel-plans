@@ -29,7 +29,7 @@ body {
 
 .destination {
     background: #03a9f4;
-    box-shadow: 0 1px 9px 0 rgba(0, 0, 0, 0.4);
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
     color: white;
     margin: 0.5em;
     min-height: 200px;
@@ -38,6 +38,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    border-radius: 10px;
 }
 
 h2 {
@@ -46,10 +47,10 @@ h2 {
     text-shadow: 0 0 5px #01579b;
 }
 
-#florida {
-    background-color: #03a9f4;
+#toronto {
+    background-color: #cc0a55;
 }
 
-#paris {
-    background-color: #d32f2f;
+#london {
+    background-color: #2063df;
 }
